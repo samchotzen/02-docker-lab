@@ -1,2 +1,2 @@
-# 02-docker-lab
-Big Data topic_02_docker Lab
+# Big Data topic_02-docker Lab
+Created a simple flask app running in a docker container.
